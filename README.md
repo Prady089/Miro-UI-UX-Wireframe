@@ -84,8 +84,35 @@ This landing page reflects real banking recon workflows (SmartStream, TLM, In-ho
 
 This wireframe serves to:
 
-<img width="1297" height="722" alt="image" src="https://github.com/user-attachments/assets/aa36583d-54ec-47b7-a2a3-ee7b66a19d71" />
 
+
+
+
+
+
+
+
+
+User Visits Signup Page
+Display Logo at Top Center
+Show Username Text Box
+Show Password Text Box
+Show Sign In Button
+Show Forgot Password Link
+User Action?
+Enter Credentials
+Click Forgot Password
+User Fills Username and Password
+No
+Navigate to Password Recovery
+Click Sign In Button?
+Password Recovery Process
+Yes
+Credentials Valid?
+Yes
+No
+Redirect to Dashboard
+Display Error Message
 
 Visualize how a reconciliation system should look
 
