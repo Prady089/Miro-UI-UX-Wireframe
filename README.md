@@ -84,6 +84,9 @@ This landing page reflects real banking recon workflows (SmartStream, TLM, In-ho
 
 This wireframe serves to:
 
+<img width="1297" height="722" alt="image" src="https://github.com/user-attachments/assets/aa36583d-54ec-47b7-a2a3-ee7b66a19d71" />
+
+
 Visualize how a reconciliation system should look
 
 Demonstrate end-user navigation flow
